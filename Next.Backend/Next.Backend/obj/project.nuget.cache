@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "vo+3VWStfjs=",
+  "success": true,
+  "projectFilePath": "/Users/evaldo/Codes/NEXR_TEST/Next.Backend/Next.Backend/Next.Backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/evaldo/.nuget/packages/dapper/2.1.66/dapper.2.1.66.nupkg.sha512",
+    "/Users/evaldo/.nuget/packages/microsoft.aspnetcore.openapi/9.0.9/microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "/Users/evaldo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0-rc.1.25451.107/microsoft.extensions.dependencyinjection.abstractions.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "/Users/evaldo/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.0-rc.1.25451.107/microsoft.extensions.logging.abstractions.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "/Users/evaldo/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/Users/evaldo/.nuget/packages/npgsql/10.0.0-rc.1/npgsql.10.0.0-rc.1.nupkg.sha512",
+    "/Users/evaldo/.nuget/packages/system.diagnostics.diagnosticsource/10.0.0-rc.1.25451.107/system.diagnostics.diagnosticsource.10.0.0-rc.1.25451.107.nupkg.sha512"
+  ],
+  "logs": []
+}
